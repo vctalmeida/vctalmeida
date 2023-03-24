@@ -1,13 +1,3 @@
-
-```
-body {
-  background-image: url("https://img.olhardigital.com.br/wp-content/uploads/2021/04/Galaxia-scaled.jpg");
-  background-size: cover;
-}
-```
-
-## Victor Almeida
-
 Olá,Bem-vindo ao meu Github!
 
 Atualmente estudando desenvolvimento web na [Trybe](http://www.betrybe.com)!
@@ -25,13 +15,10 @@ Projetos
 
 ### 🤓 Dados e estatisticas 📊
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vctalmeida)
+![Victor stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vctalmeida)
 
 ### Estudando atualmente
 
 ![Docker Badge](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)![SQL Badge](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vctalmeida&show_icons=true&bg_color=00000000)
-
-
-
+![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=vctalmeida&show_icons=true&bg_color=00000000)
