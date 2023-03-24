@@ -1,4 +1,4 @@
-<img src="https://images.immediate.co.uk/production/volatile/sites/4/2018/08/GettyImages-844571950-d9a615e.jpg?quality=90&resize=940,400" width="750" height="230">
+<img src="https://images.immediate.co.uk/production/volatile/sites/4/2018/08/GettyImages-844571950-d9a615e.jpg?quality=90&resize=940,400" width="1200" height="230">
 
 Olá,Bem-vindo ao meu Github!
 
