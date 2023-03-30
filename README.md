@@ -5,10 +5,7 @@ Olá,Bem-vindo ao meu Github!
 Atualmente estudando desenvolvimento web na [Trybe](http://www.betrybe.com)!
 
 Projetos
--
--
--
--
+- [Pixel art](https://github.com/vctalmeida/Pixel-Art) - Projeto desenvolvido com o uso de Html,CSS e Javascript.
 
 
 ###  Tecnologias!⌨️
