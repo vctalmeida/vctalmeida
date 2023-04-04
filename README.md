@@ -14,10 +14,17 @@ Projetos
 
 ### 🤓 Dados e estatisticas 📊
 
-![Victor stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vctalmeida)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vctalmeida" alt="Victor stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=vctalmeida&show_icons=true&bg_color=00000000" alt="Victor GitHub stats" />
+    </td>
+  </tr>
+</table>
 
 ### Estudando atualmente
 
 ![Docker Badge](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)![SQL Badge](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=vctalmeida&show_icons=true&bg_color=00000000)
