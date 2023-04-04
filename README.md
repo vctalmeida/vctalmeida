@@ -10,21 +10,23 @@ Projetos
 
 ###  Tecnologias!⌨️
 
-![React Badge](	https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)![Html Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![Css Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)![Git Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)![Redux Badge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge" style="pointer-events:none;">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge" style="pointer-events:none;">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge" style="pointer-events:none;">
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript Badge" style="pointer-events:none;">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Git Badge" style="pointer-events:none;">
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Badge" style="pointer-events:none;">
+
 
 ### 🤓 Dados e estatisticas 📊
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vctalmeida" alt="Victor stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=vctalmeida&show_icons=true&bg_color=00000000" alt="Victor GitHub stats" />
-    </td>
-  </tr>
-</table>
+<table>  <tr>  <td>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vctalmeida" alt="Victor stats" />  </td>  <td>  <img src="https://github-readme-stats.vercel.app/api?username=vctalmeida&show_icons=true&bg_color=00000000" alt="Victor GitHub stats" />  </td>  </tr>  </table>
 
 ### Estudando atualmente
 
-![Docker Badge](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)![SQL Badge](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge" style="pointer-events:none;">
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Badge" style="pointer-events:none;">
+
+
+### Conecte-se comigo 😊
+<a href="https://www.linkedin.com/in/vctalmeida/">  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge">  </a>
